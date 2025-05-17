@@ -69,6 +69,9 @@ code starting a new round
 """
 
 # test for git
+# push to master
+# push from origin
+# git push -u master origin
 
 # init pygame
 pygame.init()
